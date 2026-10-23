@@ -20,7 +20,7 @@ This dataset was compiled from publicly available salary reports and job market 
 
 *Target Variable: annual_salary_usd*
 
-**Model Results**
+#### Model Results
 
 R-Squared: 0.6059 | RMSE: $46,103.46 | MAE: $38,265.60 | MAPE: 18.42%
 
@@ -30,7 +30,7 @@ R-Squared: 0.6059 | RMSE: $46,103.46 | MAE: $38,265.60 | MAPE: 18.42%
 
 *Target Variable: ai_salary_premium_pct*
 
-**Model Results**
+#### Model Results
 
 R-Squared: 0.4016 | RMSE: 3.07% | MAE: 2.47%| MAPE: 23.58%
 
@@ -38,7 +38,7 @@ R-Squared: 0.4016 | RMSE: 3.07% | MAE: 2.47%| MAPE: 23.58%
 
 **Assessing career growth, security and automation risks**
 
-**Model Results**
+#### Model Results
 
 Silhouette coefficient: 0.2233 | Davies-Bouldin Index: 1.5809
 
@@ -46,5 +46,5 @@ Silhouette coefficient: 0.2233 | Davies-Bouldin Index: 1.5809
 
 **Predicting Salary for a Data Scientist**
 
-**Model Results**
+#### Model Results
 R-Squared: 0.6271 | MAE: $18,736.80 | RMSE $22,428.59 | Optimal Alpha: 1.00 | Duan’s Smearing Factor: 1.002113| Sample Size: 46
