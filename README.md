@@ -54,3 +54,12 @@ ___
 
 #### Model Results
 R-Squared: 0.6271 | MAE: $18,736.80 | RMSE $22,428.59 | Optimal Alpha: 1.00 | Duan’s Smearing Factor: 1.002113| Sample Size: 46
+
+___
+
+## How TO
+
+- pull this repository
+- download dataset from kaggle
+  - put dataset in same directory in Jupyter Lab
+- run AIJobs.ipynb 
