@@ -16,7 +16,7 @@ This dataset was compiled from publicly available salary reports and job market 
 ### Random Forest Regressor
 
 **Predicting annual salary for job postings** 
-Target Variable: annual_salary_usd
+*Target Variable: annual_salary_usd*
 
 **Model Results**
 R-Squared: 0.6059 | RMSE: $46,103.46 | MAE: $38,265.60 | MAPE: 18.42%
@@ -24,7 +24,7 @@ R-Squared: 0.6059 | RMSE: $46,103.46 | MAE: $38,265.60 | MAPE: 18.42%
 ### Random Forest Panel Regressor
 
 **Predicting percentage of salary increase due to AI skills to base salary levels**
-Target Variable: ai_salary_premium_pct
+*Target Variable: ai_salary_premium_pct*
 
 **Model Results**
 R-Squared: 0.4016 | RMSE: 3.07% | MAE: 2.47%| MAPE: 23.58%
