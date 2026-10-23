@@ -24,6 +24,8 @@ This dataset was compiled from publicly available salary reports and job market 
 
 R-Squared: 0.6059 | RMSE: $46,103.46 | MAE: $38,265.60 | MAPE: 18.42%
 
+___ 
+
 ### Random Forest Panel Regressor
 
 **Predicting percentage of salary increase due to AI skills to base salary levels**
@@ -34,6 +36,8 @@ R-Squared: 0.6059 | RMSE: $46,103.46 | MAE: $38,265.60 | MAPE: 18.42%
 
 R-Squared: 0.4016 | RMSE: 3.07% | MAE: 2.47%| MAPE: 23.58%
 
+___
+
 ### K-Means Clustering
 
 **Assessing career growth, security and automation risks**
@@ -41,6 +45,8 @@ R-Squared: 0.4016 | RMSE: 3.07% | MAE: 2.47%| MAPE: 23.58%
 #### Model Results
 
 Silhouette coefficient: 0.2233 | Davies-Bouldin Index: 1.5809
+
+___ 
 
 ### Regular Ridge Regression
 
